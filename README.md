@@ -246,4 +246,4 @@ This repository serves as the official landing page for Tainted Grail: The Fall 
 **Get the most recent version of Tainted Grail: The Fall of Avalon today!**
 
 ---
-**Last updated:** 2026-09-15 22:37:58 UTC
+**Last updated:** 2026-09-16 00:58:03 UTC
